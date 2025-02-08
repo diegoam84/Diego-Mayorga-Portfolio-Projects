@@ -7,6 +7,9 @@ In this project, I extracted and analyzed stock market data using yfinance, pand
 
 ## 2. Dashboard Data Analyst Technologies
 ●	Used Python and BeautifulSoup to web scrape and extract revenue data of different publicly traded companies.
+
 ●	Retrieved and analyzed 15+ years of historical stock price data using yfinance.
+
 ●	Processed and cleaned 10,000+ data points with pandas to ensure accuracy and consistency.
+
 ●	Developed interactive visualizations with Plotly to track stock performance vs historical revenue, providing a clear view of market fluctuations.
