@@ -1,6 +1,6 @@
 # Diego Mayorga Data Analyst Portfolio
 
-This Repository holds all of the code, visualizations and queries from my Portfolio Projects. The projects and descriptions are as follows:
+This repository contains the code, visualizations, and queries from my portfolio projects. Below, you'll find a list of projects along with their descriptions:
 
 ## 1. Stock Market Data Visualization
 ●	Used Python and BeautifulSoup to web scrape and extract revenue data of different publicly traded companies.
