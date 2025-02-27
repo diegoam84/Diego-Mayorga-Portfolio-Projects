@@ -11,9 +11,9 @@ This repository contains the code, visualizations, and queries from my portfolio
 
 ●	Developed interactive visualizations with Plotly to track stock performance vs historical revenue, providing a clear view of market fluctuations.
 
-## 2. Dashboard Data Analyst Technologies
-● Analyzed survey data from programmers and data analysts to identify the most commonly used languages, database technologies, platforms, and web frameworks.
+## 2. HR Analitycs Dashboard
+● This HR Analytics dashboard provides a comprehensive view of workforce size and attrition, segmented by education, age, salary, and job role. The underlying data model consists of four tables: three dimension tables detailing departments, education, and job roles, and one fact table containing the core HR data.
 
-● Examined industry preferences by exploring which technologies professionals are most interested in learning in the future.
+● Cleaned the data, standardized it, and created agregated columns using DAX and Power Query in Power BI.
 
-● Created a dashboard to visualize key insights, shared as a PDF file.
+● Created an interactive dashboard to visualize key insights, shared as a PDF file.
