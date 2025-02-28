@@ -26,10 +26,24 @@ This repository contains the code, visualizations, and queries from my portfolio
 ● Explored profit trends per genre over the years to reveal temporal patterns and performance dynamics.
 
 ## 4. US Household Income
-● 
+● Performed comprehensive data cleaning in **MySQL** by removing duplicate records, standardizing inconsistent data, and handling null values to ensure a reliable dataset.
+
+● Merged multiple tables using **SQL JOINs** to create an integrated dataset for in-depth exploratory analysis.
+
+● Analyzed salary distributions by reviewing the top 5, median, and bottom 5 salaries segmented by state, city, and job type.
+
+● Developed targeted SQL queries to extract actionable insights and uncover regional trends in salary data.
 
 ## 5. World Life Expectancy Data
-● 
+● Executed data cleaning in **MySQL** by removing duplicates, standardizing data entries, and addressing blank values to ensure a reliable dataset.
+
+● Conducted exploratory analysis on world life expectancy data to uncover key trends and variations
+
+● Computed average life expectancy metrics by year and by country to provide a global perspective.
+
+● Investigated the correlation between life expectancy and GDP to explore economic impacts on longevity.
+
+● Compared BMI against life expectancy to analyze the relationship between public health and lifespan.
 
 ## 6. Stock Market Data Visualization
 ●	Used **Python** and **BeautifulSoup** to web scrape and extract revenue data of different publicly traded companies.
