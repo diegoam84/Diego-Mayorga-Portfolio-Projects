@@ -9,14 +9,14 @@ This repository contains the code, visualizations, and queries from my portfolio
 
 ● Created an interactive dashboard to visualize key insights, shared as a PDF file.
 
-## Food Marketing Analysis
+## 2. Food Marketing Analysis
 ● Conducted in-depth exploratory analysis using Python (Pandas, Seaborn, Plotly) to uncover underlying trends and cause-effect relationships among respondents.
 
 ● Provided written insights alongside each visualization to explain discoveries and support strategic recommendations in the food marketing domain.
 
 ● Categorized customers based on key attributes such as marital status, purchase channels (in-store, web, catalog), age, education level, and parental status to reveal distinct behavioral segments
 
-## 5. Stock Market Data Visualization
+## 3. Stock Market Data Visualization
 ●	Used Python and BeautifulSoup to web scrape and extract revenue data of different publicly traded companies.
 
 ●	Retrieved and analyzed 15+ years of historical stock price data using yfinance.
