@@ -5,12 +5,12 @@ This repository contains the code, visualizations, and queries from my portfolio
 ## 1. HR Analitycs Dashboard
 ● This HR Analytics dashboard provides a comprehensive view of workforce size and attrition, segmented by education, age, salary, and job role. The underlying data model consists of four tables: three dimension tables detailing departments, education, and job roles, and one fact table containing the core HR data.
 
-● Cleaned the data, standardized it, and created agregated columns using DAX and Power Query in Power BI.
+● Cleaned the data, standardized it, and created agregated columns using **DAX** and **Power Query** in **Power BI**.
 
 ● Created an interactive dashboard to visualize key insights, shared as a PDF file.
 
 ## 2. Food Marketing Analysis
-● Conducted in-depth exploratory analysis using Python (Pandas, Seaborn, Plotly) to uncover underlying trends and cause-effect relationships among respondents.
+● Conducted in-depth exploratory analysis using **Python** (Pandas, Seaborn, Plotly) to uncover underlying trends and cause-effect relationships among respondents.
 
 ● Provided written insights alongside each visualization to explain discoveries and support strategic recommendations in the food marketing domain.
 
