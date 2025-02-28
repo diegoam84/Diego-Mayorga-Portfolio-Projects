@@ -10,14 +10,14 @@ This repository contains the code, visualizations, and queries from my portfolio
 ● Created an interactive dashboard to visualize key insights, shared as a PDF file.
 
 ## 2. Food Marketing Analysis
-● Conducted in-depth exploratory analysis using **Python** (Pandas, Seaborn, Plotly) to uncover underlying trends and cause-effect relationships among respondents.
+● Conducted in-depth exploratory analysis using **Python** (**Pandas**, **Seaborn**, **Plotly**) to uncover underlying trends and cause-effect relationships among respondents.
 
 ● Provided written insights alongside each visualization to explain discoveries and support strategic recommendations in the food marketing domain.
 
 ● Categorized customers based on key attributes such as marital status, purchase channels (in-store, web, catalog), age, education level, and parental status to reveal distinct behavioral segments.
 
 ## 3. Movie Genre Data Analysis
-● Conducted an exploratory analysis on a comprehensive movie dataset using Python (Pandas, Seaborn) to uncover genre trends.
+● Conducted an exploratory analysis on a comprehensive movie dataset using **Python** (**Pandas**, **Seaborn**) to uncover genre trends.
 
 ● Analyzed average budget, revenue, profit, and popularity across genres to determine financial and audience impact.
 
@@ -25,10 +25,16 @@ This repository contains the code, visualizations, and queries from my portfolio
 
 ● Explored profit trends per genre over the years to reveal temporal patterns and performance dynamics.
 
-## 4. Stock Market Data Visualization
-●	Used Python and BeautifulSoup to web scrape and extract revenue data of different publicly traded companies.
+## 4. US Household Income
+● 
 
-●	Retrieved and analyzed 15+ years of historical stock price data using yfinance.
+## 5. World Life Expectancy Data
+● 
+
+## 6. Stock Market Data Visualization
+●	Used **Python** and **BeautifulSoup** to web scrape and extract revenue data of different publicly traded companies.
+
+●	Retrieved and analyzed 15+ years of historical stock price data using **yfinance**.
 
 ●	Processed and cleaned 10,000+ data points with pandas to ensure accuracy and consistency.
 
