@@ -14,9 +14,18 @@ This repository contains the code, visualizations, and queries from my portfolio
 
 ● Provided written insights alongside each visualization to explain discoveries and support strategic recommendations in the food marketing domain.
 
-● Categorized customers based on key attributes such as marital status, purchase channels (in-store, web, catalog), age, education level, and parental status to reveal distinct behavioral segments
+● Categorized customers based on key attributes such as marital status, purchase channels (in-store, web, catalog), age, education level, and parental status to reveal distinct behavioral segments.
 
-## 3. Stock Market Data Visualization
+## 3. Movie Genre Data Analysis
+● Conducted an exploratory analysis on a comprehensive movie dataset using Python (Pandas, Seaborn) to uncover genre trends.
+
+● Analyzed average budget, revenue, profit, and popularity across genres to determine financial and audience impact.
+
+● Examined key hypotheses, such as whether top-rated and popular movies yield higher profits and revenues, and if highly budgeted films enjoy greater popularity
+
+● Explored profit trends per genre over the years to reveal temporal patterns and performance dynamics.
+
+## 4. Stock Market Data Visualization
 ●	Used Python and BeautifulSoup to web scrape and extract revenue data of different publicly traded companies.
 
 ●	Retrieved and analyzed 15+ years of historical stock price data using yfinance.
