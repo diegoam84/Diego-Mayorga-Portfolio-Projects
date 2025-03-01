@@ -53,3 +53,10 @@ This repository contains the code, visualizations, and queries from my portfolio
 ●	Processed and cleaned 10,000+ data points with pandas to ensure accuracy and consistency.
 
 ●	Developed interactive visualizations with Plotly to track stock performance vs historical revenue, providing a clear view of market fluctuations.
+
+## 7. Marketing Campaigns
+● Explored the distributions of key metrics such as customers reached, monthly targets, and amount of money collected in **Python**.
+
+● Conducted correlation analysis to identify relationships between numeric variables and revenue generated.
+
+● Applied regression analysis segmented by facility type (large, medium, private, and small) to determine the most effective marketing strategies for hospitals.
