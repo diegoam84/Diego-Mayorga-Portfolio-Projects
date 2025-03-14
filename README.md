@@ -2,21 +2,28 @@
 
 This repository contains the code, visualizations, and queries from my portfolio projects. Below, you'll find a list of projects along with their descriptions:
 
-## 1. HR Analitycs Dashboard
+## British Airways Data Science Job Simulation - [Click here to see the project.](https://github.com/diegoam84/Diego-Mayorga-Portfolio-Projects/blob/main/British%20Airways%20Customer%20Analysis.ipynb)
+●	Utilized **Python** to perform sentiment analysis on 4,000 reviews of British Airways.
+
+●	Implemented **Regex** techniques to clean the data, and text analysis to successfully identified the major complaints for the airline.
+
+●	Applied **regression** and **machine learning** to produce a final model with an accuracy of 80% to predict whether a customer will make a booking with the airline or not. [Click here to see the Jupyter Notebook](https://github.com/diegoam84/Diego-Mayorga-Portfolio-Projects/blob/main/British%20Airways%20Predicting%20Customer%20Buying%20Behaviour.ipynb)
+
+## HR Analitycs Dashboard - [Click here to see the project.](https://github.com/diegoam84/Diego-Mayorga-Portfolio-Projects/blob/main/HR%20Analytics%20Dashboard.pdf)
 ● This HR Analytics dashboard provides a comprehensive view of workforce size and attrition, segmented by education, age, salary, and job role. The underlying data model consists of four tables: three dimension tables detailing departments, education, and job roles, and one fact table containing the core HR data.
-
+  
 ● Cleaned the data, standardized it, and created aggregated columns using **DAX** and **Power Query** in **Power BI**.
-
+  
 ● Created an interactive dashboard to visualize key insights, shared as a PDF file.
 
-## 2. Food Marketing Analysis
+## Food Marketing Analysis - [Click here to see the project.](https://github.com/diegoam84/Diego-Mayorga-Portfolio-Projects/blob/main/Food%20marketing%20analysis.ipynb)
 ● Conducted in-depth exploratory analysis using **Python** (**Pandas**, **Seaborn**, **Plotly**) to uncover underlying trends and cause-effect relationships among respondents.
 
 ● Provided written insights alongside each visualization to explain discoveries and support strategic recommendations in the food marketing domain.
 
 ● Categorized customers based on key attributes such as marital status, purchase channels (in-store, web, catalog), age, education level, and parental status to reveal distinct behavioral segments.
 
-## 3. Movie Genre Data Analysis
+## Movie Genre Data Analysis - [Click here to see the project.](https://github.com/diegoam84/Diego-Mayorga-Portfolio-Projects/blob/main/movie%20genre%20data%20analysis.ipynb)
 ● Conducted an exploratory analysis on a comprehensive movie dataset using **Python** (**Pandas**, **Seaborn**) to uncover genre trends.
 
 ● Analyzed average budget, revenue, profit, and popularity across genres to determine financial and audience impact.
@@ -25,19 +32,19 @@ This repository contains the code, visualizations, and queries from my portfolio
 
 ● Explored profit trends per genre over the years to reveal temporal patterns and performance dynamics.
 
-## 4. US Household Income
+## US Household Income - [Click here to see the project.](https://github.com/diegoam84/Diego-Mayorga-Portfolio-Projects/blob/main/us%20household%20income%20project%20-%20data%20cleaning.sql)
 ● Performed comprehensive data cleaning in **MySQL** by removing duplicate records, standardizing inconsistent data, and handling null values to ensure a reliable dataset.
 
 ● Merged multiple tables using **SQL JOINs** to create an integrated dataset for in-depth exploratory analysis.
 
-● Analyzed salary distributions by reviewing the top 5, median, and bottom 5 salaries segmented by state, city, and job type.
+● Analyzed salary distributions by reviewing the top 5, median, and bottom 5 salaries segmented by state, city, and job type. [Click here to see the SQL code](https://github.com/diegoam84/Diego-Mayorga-Portfolio-Projects/blob/main/us%20household%20income%20project%20-%20exploratory%20data%20analysis.sql)
 
 ● Developed targeted SQL queries to extract actionable insights and uncover regional trends in salary data.
 
-## 5. World Life Expectancy Data
+## World Life Expectancy Data - [Click here to see the project.](https://github.com/diegoam84/Diego-Mayorga-Portfolio-Projects/blob/main/world_life_expectancy-data%20cleaning.sql)
 ● Executed data cleaning in **MySQL** by removing duplicates, standardizing data entries, and addressing blank values to ensure a reliable dataset.
 
-● Conducted exploratory analysis on world life expectancy data to uncover key trends and variations
+● Conducted exploratory analysis on world life expectancy data to uncover key trends and variations [Click here to see the SQL code](https://github.com/diegoam84/Diego-Mayorga-Portfolio-Projects/blob/main/world_life_expectancy-exploratory%20data%20analysis.sql)
 
 ● Computed average life expectancy metrics by year and by country to provide a global perspective.
 
@@ -45,7 +52,7 @@ This repository contains the code, visualizations, and queries from my portfolio
 
 ● Compared BMI against life expectancy to analyze the relationship between public health and lifespan.
 
-## 6. Stock Market Data Visualization
+## Stock Market Data Visualization - [Click here to see the project.](https://github.com/diegoam84/Diego-Mayorga-Portfolio-Projects/blob/main/Stock%20Market%20Data%20Visualization.ipynb)
 ●	Used **Python** and **BeautifulSoup** to web scrape and extract revenue data of different publicly traded companies.
 
 ●	Retrieved and analyzed 15+ years of historical stock price data using **yfinance**.
@@ -54,7 +61,7 @@ This repository contains the code, visualizations, and queries from my portfolio
 
 ●	Developed interactive visualizations with Plotly to track stock performance vs historical revenue, providing a clear view of market fluctuations.
 
-## 7. Marketing Campaigns
+## Marketing Campaigns - [Click here to see the project.](https://github.com/diegoam84/Diego-Mayorga-Portfolio-Projects/blob/main/marketing%20campaigns.ipynb)
 ● Explored the distributions of key metrics such as customers reached, monthly targets, and amount of money collected in **Python**.
 
 ● Conducted correlation analysis to identify relationships between numeric variables and revenue generated.
