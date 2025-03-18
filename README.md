@@ -9,6 +9,15 @@ This repository contains the code, visualizations, and queries from my portfolio
 
 ●	Applied **regression** and **machine learning** to produce a final model with an accuracy of 80% to predict whether a customer will make a booking with the airline or not. [Click here to see the Jupyter Notebook](https://github.com/diegoam84/Diego-Mayorga-Portfolio-Projects/blob/main/British%20Airways%20Predicting%20Customer%20Buying%20Behaviour.ipynb)
 
+## Global Electronics Retailer Analysis - [Click here to see the project.](https://github.com/diegoam84/Diego-Mayorga-Portfolio-Projects/blob/main/Global%20Electronics%20Retailer%20Analysis.sql)
+● Imported and standardized sales, customer, product, and exchange rate data, ensuring consistency in date formats, currency values, and missing data handling.
+
+● Measured average purchase frequency, identified long-term inactive customers (churn analysis), and segmented customers based on age groups.
+
+● Examined total sales trends over time (daily, monthly, yearly), identified peak sales periods, and analyzed regional revenue differences.
+
+● Utilized advanced **SQL** queries, including **JOINs**, **CTEs**, **DATEDIFF()**, and aggregate functions to extract key business insights efficiently.
+
 ## HR Analitycs Dashboard - [Click here to see the project.](https://github.com/diegoam84/Diego-Mayorga-Portfolio-Projects/blob/main/HR%20Analytics%20Dashboard.pdf)
 ● This HR Analytics dashboard provides a comprehensive view of workforce size and attrition, segmented by education, age, salary, and job role. The underlying data model consists of four tables: three dimension tables detailing departments, education, and job roles, and one fact table containing the core HR data.
   
