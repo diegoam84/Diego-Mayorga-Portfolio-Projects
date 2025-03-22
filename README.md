@@ -41,6 +41,13 @@ This repository contains the code, visualizations, and queries from my portfolio
 
 ● Explored profit trends per genre over the years to reveal temporal patterns and performance dynamics.
 
+## Airline Loyalty Program Analysis - [Click here to see the project.](https://github.com/diegoam84/Diego-Mayorga-Portfolio-Projects/blob/main/Airline%20Loyalty%20Program%20Analysis.sql)
+● Analyzed airline loyalty program data to understand customer behavior, including points accumulation, redemption, and churn rates.
+
+● Examined differences in engagement across membership tiers, regional variations, and inactivity patterns to identify trends.
+
+● Used **advanced SQL queries**, including window functions and joins, to extract insights from customer flight activity and loyalty history.
+
 ## US Household Income - [Click here to see the project.](https://github.com/diegoam84/Diego-Mayorga-Portfolio-Projects/blob/main/us%20household%20income%20project%20-%20data%20cleaning.sql)
 ● Performed comprehensive data cleaning in **MySQL** by removing duplicate records, standardizing inconsistent data, and handling null values to ensure a reliable dataset.
 
