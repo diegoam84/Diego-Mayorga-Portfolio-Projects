@@ -18,7 +18,7 @@ This repository contains the code, visualizations, and queries from my portfolio
 
 ● Utilized advanced **SQL** queries, including **JOINs**, **CTEs**, **DATEDIFF()**, and aggregate functions to extract key business insights efficiently.
 
-## HR Analitycs Dashboard - [Click here to see the project.](https://github.com/diegoam84/Diego-Mayorga-Portfolio-Projects/blob/main/HR%20Analytics%20Dashboard.pdf)
+## HR Analytics Dashboard - [Click here to see the project.](https://github.com/diegoam84/Diego-Mayorga-Portfolio-Projects/blob/main/HR%20Analytics%20Dashboard.pdf)
 ● This HR Analytics dashboard provides a comprehensive view of workforce size and attrition, segmented by education, age, salary, and job role. The underlying data model consists of four tables: three dimension tables detailing departments, education, and job roles, and one fact table containing the core HR data.
   
 ● Cleaned the data, standardized it, and created aggregated columns using **DAX** and **Power Query** in **Power BI**.
